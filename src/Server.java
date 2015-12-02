@@ -57,7 +57,7 @@ public class Server {
         }
     }
 
-    
+
 
     private  String decode( String in , boolean decode){
         if(!decode){
